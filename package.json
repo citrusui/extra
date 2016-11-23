@@ -1,0 +1,20 @@
+{
+  "name": "xtra",
+  "version": "1.0.0",
+  "description": "extra domain names",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/citrusui/extra.git"
+  },
+  "keywords": [
+    "extra",
+    "domain",
+    "neocities"
+  ],
+  "author": "Avery Magnotti",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/citrusui/extra/issues"
+  },
+  "homepage": "https://github.com/citrusui/extra"
+}
