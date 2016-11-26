@@ -10,6 +10,8 @@ Here are the domains that currently host this page (listed by date of creation):
 
 <https://citrusui.neocities.org>
 
+<https://citrusui.github.io/extra/>
+
 # License
 
 [WTFPL](LICENSE.md), because why not?
