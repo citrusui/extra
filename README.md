@@ -6,7 +6,7 @@ Here are the domains that currently host this page (listed by date of creation):
 
 <http://tilde.works/~citrusui/>
 
-<http://tilde.town/~citrusui/>
+<https://tilde.town/~citrusui/>
 
 <https://citrusui.neocities.org>
 
